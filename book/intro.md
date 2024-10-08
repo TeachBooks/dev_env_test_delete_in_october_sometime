@@ -6,3 +6,5 @@ _Write book intro here. This is the first page the student will see when opening
 This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative.
 
 julie and i did this in the dev environment. so cool!!!
+
+look julie i commit this from the repo!
